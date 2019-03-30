@@ -4,4 +4,4 @@ def greeting(world)
   puts "Hello, #{world}!"
 end
 
-greeting
+greeting("Johnson")
